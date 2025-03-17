@@ -1,0 +1,7 @@
+grade_id,grade,marks_range
+1,A,100 to 90
+2,A-,91 to 80
+3,B+,81 to 71
+4,B, 70 to 61
+5,B-,60 to 51
+6,C,50 to 41
